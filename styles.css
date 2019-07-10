@@ -5,3 +5,9 @@
     font-family: 'Bad Script', cursive;
     font-size: large;
 }
+
+.col {
+    background-color: burlywood;
+    border: thick solid;
+    text-align: center;
+}
