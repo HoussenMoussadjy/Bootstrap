@@ -5,3 +5,12 @@ body {
 .navbar {
     background-color: darkviolet;
 }
+
+.col, .col-4, .col-8, .col-sm {
+    border: solid;
+    background-color: burlywood;
+}
+
+.container {
+    background-color: tomato;
+}
