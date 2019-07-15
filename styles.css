@@ -1,16 +1,8 @@
-body {
-    background-color: gold;
+.container-fluid {
+    background-color: #4e2716;
+    width: 100%;
 }
 
-.navbar {
-    background-color: darkviolet;
-}
-
-.col, .col-4, .col-8, .col-sm {
-    border: solid;
-    background-color: burlywood;
-}
-
-.container {
-    background-color: tomato;
+.img-fluid {
+    width: 100%;
 }
