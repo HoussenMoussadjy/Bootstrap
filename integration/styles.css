@@ -1,0 +1,19 @@
+.container-fluid {
+    background-color: #4e2716;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.background {
+    background: url("../assets/src_assets_img_background-trunk.jpg");
+    background-size: cover;
+}
+
+.main-title {
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    margin: 8rem 0;
+}
