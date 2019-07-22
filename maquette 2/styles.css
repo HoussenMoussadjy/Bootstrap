@@ -4,15 +4,14 @@
 }
 
 .background-2 {
-    background-color: #f3f3f3;
+    background-color: rgb(233, 233, 233);
 }
 
+.background-3 {
+    background-color: #ffffff;
+}
 h3 {
     color: white;
-}
-
-h5 {
-    color: #e07474;
 }
 
 h6 {
@@ -27,5 +26,4 @@ h6 {
 .col-sm-6 {
     margin-top: 25px;
 }
-
 
