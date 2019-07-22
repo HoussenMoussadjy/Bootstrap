@@ -10,20 +10,41 @@
 .background-3 {
     background-color: #ffffff;
 }
+
 h3 {
     color: white;
 }
 
 h6 {
     margin: 1rem 0;
+    color: #A07C71;
 }
 
 .two-blocks {
     margin: 4rem 0;
 }
 
-
 .col-sm-6 {
     margin-top: 25px;
 }
 
+.g-color {
+    color: limegreen;
+}
+
+.r-color {
+    color: red;
+}
+
+.brn-color {
+    color: #A07C71;
+}
+
+img {
+    width: 65%;
+    height: 47%;
+}
+
+.pad {
+    padding-top: 17rem;
+}
