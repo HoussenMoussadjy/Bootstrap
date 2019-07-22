@@ -11,7 +11,7 @@
     background-color: #ffffff;
 }
 
-h3 {
+h3, .home {
     color: white;
 }
 
@@ -47,4 +47,12 @@ img {
 
 .pad {
     padding-top: 17rem;
+}
+
+.bdr-wdth {
+    border-width:5px !important;
+}
+
+.sixth-title {
+    color: gray;
 }
