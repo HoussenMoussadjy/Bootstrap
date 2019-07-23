@@ -46,13 +46,18 @@ img {
 }
 
 .pad {
-    padding-top: 17rem;
+    padding-top: 24.5rem;
 }
 
 .bdr-wdth {
-    border-width:5px !important;
+    border-width:4px !important;
+    border-color: rgb(215, 215, 215) !important;
 }
 
 .sixth-title {
     color: gray;
+}
+
+.color {
+    border-color: white;
 }
