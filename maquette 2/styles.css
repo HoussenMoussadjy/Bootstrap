@@ -100,6 +100,10 @@ img {
     padding-bottom: 1rem;
 }
 
+.mrgn-rgt {
+    margin-left: 1rem;
+}
+
 .last-col {
     padding-right: 3rem;
     padding-left: 1rem;
