@@ -1,3 +1,7 @@
+/*body {
+    font-family: Frutiger;
+}*/
+
 .background {
     background: url("../assets/src_assets_img_background-louis-vuitton.svg") #433431;
     color: #A07C71;
@@ -15,9 +19,21 @@ h3, .home {
     color: white;
 }
 
+h4 {
+    font-size: 1.1rem;
+}
+
+h5 {
+    font-size: 13px;
+}
+
 h6 {
     margin: 1rem 0;
     color: #A07C71;
+}
+
+p {
+    font-size: 0.9rem;
 }
 
 .two-blocks {
@@ -30,10 +46,12 @@ h6 {
 
 .g-color {
     color: limegreen;
+    font-size: 0.8rem;
 }
 
 .r-color {
     color: red;
+    font-size: 0.8rem;
 }
 
 .brn-color {
@@ -41,8 +59,8 @@ h6 {
 }
 
 img {
-    width: 66%;
-    height: 50%;
+    width: 51%;
+    height: 47%;
 }
 
 .pad {
@@ -56,8 +74,37 @@ img {
 
 .sixth-title {
     color: gray;
+    font-size: 0.8rem;
 }
 
 .color {
     border-color: white;
+}
+
+.paddn-top {
+    padding-top: 2rem ;
+}
+
+.paddn-1 {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.paddn-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+}
+
+.last-col {
+    padding-right: 3rem;
+    padding-left: 1rem;
+}
+
+.container {
+    max-width: 85%;
+}
+
+.first-col {
+    padding-right: -1rem;
+    padding-left: -1rem;
 }
