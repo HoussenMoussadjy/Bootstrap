@@ -2,6 +2,10 @@
     font-family: Frutiger;
 }*/
 
+.container {
+    max-width: 85%;
+}
+
 .background {
     background: url("../assets/src_assets_img_background-louis-vuitton.svg") #433431;
     color: #A07C71;
@@ -38,10 +42,11 @@ p {
 
 .two-blocks {
     margin: 4rem 0;
+
 }
 
 .col-sm-6 {
-    margin-top: 25px;
+    margin-top: 45px;
 }
 
 .g-color {
@@ -64,7 +69,7 @@ img {
 }
 
 .pad {
-    padding-top: 27rem;
+    padding-top: 28rem;
 }
 
 .bdr-wdth {
@@ -95,16 +100,11 @@ img {
     padding-bottom: 1rem;
 }
 
+.mrgn-rgt {
+    margin-left: 1rem;
+}
+
 .last-col {
     padding-right: 3rem;
     padding-left: 1rem;
-}
-
-.container {
-    max-width: 85%;
-}
-
-.first-col {
-    padding-right: -1rem;
-    padding-left: -1rem;
 }
