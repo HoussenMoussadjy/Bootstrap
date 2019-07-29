@@ -7,9 +7,14 @@
     font-size: 38px;
 }
 
+h4 {
+    letter-spacing: 0.1rem;
+    font-size: 1.4rem;
+}
+
 img {
     padding-top: 2.7rem;
-    padding-bottom: 2.7rem;
+    padding-bottom: 2.9rem;
 }
 
 .row.last {
