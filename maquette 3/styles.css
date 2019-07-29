@@ -27,13 +27,17 @@ img {
     letter-spacing: 0.3rem;
     padding-left: 2.4rem;
     padding-top: 1.3rem;
+    background-color: rgb(132, 132, 132) !important;
+    border-color: rgb(132, 132, 132) !important;
 }
 
 .btn-dark {
     font-size: 14px;
     letter-spacing: 0.3rem;
     margin-left: 1rem;
-    padding-top: initial;
+    padding-top: 0.5rem;
+    padding-bottom: initial;
+    background-color: rgb(29, 29, 29) !important;
 }
 
 .f-clr {
@@ -44,4 +48,3 @@ img {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 }
-
