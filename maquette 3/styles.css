@@ -1,10 +1,10 @@
 .container {
-    background-color: #ececec;
     max-width: 82%;
 }
 
 .material-icons.md-38 {
     font-size: 38px;
+    padding-top: 1.5rem;
 }
 
 h4 {
@@ -13,7 +13,7 @@ h4 {
 }
 
 img {
-    padding-top: 2.7rem;
+    padding-top: 2.6rem;
     padding-bottom: 2.9rem;
 }
 
@@ -21,3 +21,27 @@ img {
     padding-top: 2.5rem;
     padding-bottom: 8rem;
 }
+
+.btn-secondary {
+    font-size: 14px;
+    letter-spacing: 0.3rem;
+    padding-left: 2.4rem;
+    padding-top: 1.3rem;
+}
+
+.btn-dark {
+    font-size: 14px;
+    letter-spacing: 0.3rem;
+    margin-left: 1rem;
+    padding-top: initial;
+}
+
+.f-clr {
+    background-color: #cecece;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: rgb(152, 152, 152);
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
