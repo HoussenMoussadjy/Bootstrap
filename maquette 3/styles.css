@@ -1,0 +1,18 @@
+.container {
+    background-color: #ececec;
+    max-width: 82%;
+}
+
+.material-icons.md-38 {
+    font-size: 38px;
+}
+
+img {
+    padding-top: 2.7rem;
+    padding-bottom: 2.7rem;
+}
+
+.row.last {
+    padding-top: 2.5rem;
+    padding-bottom: 8rem;
+}
